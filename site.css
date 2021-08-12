@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+    overflow-x: hidden;
+    background: rgb(44, 187, 151);
+}
+
+#titulo{
+
+    background: linear-gradient(to bottom, rgb(0, 98, 128), rgb(0, 128, 96));
+    text-align: center;
+    line-height: 60px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.menu{
+
+    background: rgb(0, 128, 96);
+    color: white;
+    padding-left: 10px;
+}
+
+.menu li{
+
+  list-style: none;
+  display: inline;
+  padding-left: 10px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.android{
+
+    background: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border-radius: 1em;
+    border: 2px solid rgb(6, 139, 115);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.android h3{
+
+    text-align: center;
+    margin: 10px;
+    color: rgb(8, 83, 61);
+}
+
+.android p{
+
+    margin: 10px;
+}
+
+.android h4{
+
+    margin: 10px;
+    padding: 10px;
+    color: rgb(8, 83, 61);
+}
+
+.android img{
+
+   width: 40em;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.extra{
+
+    background-color: rgb(206, 226, 226);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border-radius: 1em;
+    border: 2px solid rgb(6, 139, 115);
+
+
+}
+
+.extra li{
+
+    list-style: none;
+    padding-left: 10px;
+}
+
+.extra h4{
+    background-color: rgb(108, 194, 194);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 0;
+    margin-right: 0;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+#conclusao{
+
+    text-align: center;
+}
+
+#footer{
+
+    background-color: rgb(108, 194, 194);
+    margin-top: 20px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 45%; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
